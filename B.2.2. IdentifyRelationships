@@ -1,0 +1,9 @@
+Identify Relationships :
+------------------------
+1. Inheritance: Admin extends User.
+2. Composition: NoteBook contains Note objects.
+3. Aggregation: User owns multiple NoteBook objects.
+4. Association: Note is associated with User through the author/UserId relationship.
+
+
+
